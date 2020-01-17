@@ -1,3 +1,15 @@
 title:Deep Reinforcement Learning Notes
 description:Blog
 github_username:Kiiiiii123
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: solarized-dark
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true

@@ -1,4 +1,4 @@
-# Your blog
+# My blog
 
-This is the repository for your blog!
+This is the repository for my blog!
 

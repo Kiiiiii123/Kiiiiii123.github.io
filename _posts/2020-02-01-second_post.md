@@ -13,5 +13,7 @@
 4. Homework 4: Model-based reinforcement learning
 5. Homework 5: Advanced model-free RL algorithms
 6. Final project: Research-level project of your choice
-## 3. Deep learning helps us handle unstructured environments
+## 3. Deep learning helps us handle unstructured environments,Reinforcement learning provides a formalism for behavior
+## 4. End-to-end learning means a lot for sequential decision making 
+## 5. Deep models are what allow reinforcement learning algorithms to solve complex problems end to end!
 ![](/images/name/image1.png)
